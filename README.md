@@ -1,4 +1,4 @@
-# snake-game
+# Snake Game
 Middle East Technical University
 Department of Mechanical Engineering
 Ankara, Turkey
