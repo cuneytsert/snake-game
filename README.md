@@ -7,6 +7,8 @@ Have fun. Happy coding :-)
 
 Please send your bug reports, requests, comments, questions to csert@metu.edu.tr.
 
+<img width="657" height="666" alt="image" src="https://github.com/user-attachments/assets/27aed9a8-a897-4223-ac37-222feb96d01b" />
+
 # Version History
 
 **v01:** A figure window is created and decorated.
