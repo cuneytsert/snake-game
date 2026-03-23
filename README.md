@@ -1,10 +1,4 @@
 # Snake Game
-Middle East Technical University  
-Department of Mechanical Engineering  
-Ankara, Turkey  
-ME 310 Numerical Methods  
-Dr. Cuneyt Sert  
-
 This is a step-by-step MATLAB implementation of the classical snake game written as a fun coding tutorial for the students of my numerical methods course. Obviously, MATLAB is not the best language for game development, but games are fun, and coding them (even in MATLAB) is also fun. So, why not?
 
 No AI assistance is used in writing these codes. Because I just wanted to do it myself.
