@@ -23,7 +23,7 @@ Please send your bug reports, requests, comments, questions to csert@metu.edu.tr
 
 **v06:** Our snake can now move. But we are not controlling it yet. It just goes out of the game board.
 
-**v07:** A new variable called cnakeCoord is created to store the coordinates of the squares that make up our snake.
+**v07:** A new variable called snakeCoord is created to store the coordinates of the squares that make up our snake.
 
 **v08:** The snake is not allowed to go out of the right wall. The game ends and "Game over" message is written in the command window when this happens.
 
